@@ -1,0 +1,3 @@
+com\mojro\vertx\entity\Book.class
+com\mojro\vertx\app\App.class
+com\mojro\vertx\dao\BookDAO.class
